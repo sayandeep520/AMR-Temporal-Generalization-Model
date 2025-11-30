@@ -1,0 +1,13 @@
+genome_id,antibiotic,phenotype,sequence_type
+1280.101,Methicillin,R,ST5
+1280.102,Methicillin,R,ST8
+1280.103,Methicillin,S,ST398
+1280.104,Methicillin,S,ST30
+1280.105,Methicillin,R,ST5
+1280.106,Methicillin,S,ST1
+1280.107,Methicillin,S,ST8
+1280.108,Methicillin,R,ST8
+1280.109,Methicillin,S,ST398
+1280.110,Methicillin,S,ST5
+1280.111,Methicillin,R,ST30
+1280.112,Methicillin,S,ST1
