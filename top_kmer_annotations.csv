@@ -1,0 +1,11 @@
+K-mer,SHAP Importance,Simulated Biological Annotation
+kmer_011,0.1669294,Known AMR Gene (macrolide efflux pump)
+kmer_031,0.15330023,"Regulatory Element (hypothetical, affects antibiotic uptake)"
+kmer_015,0.09092281,Known AMR Gene (beta-lactamase variant)
+kmer_028,0.052275904,Uncharacterized Region (potential novel resistance determinant)
+kmer_023,0.040014002,"Virulence Factor (toxin-related, indirectly affects resistance)"
+kmer_047,0.015660774,Known AMR Gene (aminoglycoside modifying enzyme)
+kmer_024,0.010871387,Uncharacterized Region (potential novel resistance determinant)
+kmer_009,0.0047939783,"Regulatory Element (hypothetical, efflux pump expression)"
+kmer_041,0.0023761464,Known AMR Gene (quinolone resistance gene)
+kmer_007,0.0023304862,Uncharacterized Region (potential novel resistance determinant)
