@@ -1,0 +1,16 @@
+
+name: amr_prediction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - seaborn
+  - matplotlib
+  - requests
+  - joblib
+  - shap
